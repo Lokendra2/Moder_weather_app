@@ -1,1 +1,1 @@
-# Moder_weather_app
+# Modern_weather_app
